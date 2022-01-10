@@ -2,8 +2,8 @@
 ; priority_encoder_4to2.asm
 ;
 ; Created: 9/22/2021 5:01:56 PM
-; Author : vish7
-;
+; Author : vish75000
+; Target: AVR128DB48
 
 
 ; Replace with your application code
